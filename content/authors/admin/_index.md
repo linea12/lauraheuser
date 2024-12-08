@@ -20,42 +20,40 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: ETH Zurich
+    url: https://scm.ethz.ch/people/lheuser.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:laura.heuser@rwth-aachen.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/laartheuser_animals
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/linea12
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/laura-heuser
+#   - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
+#   - icon: academicons/orcid
+#     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Modeling and Simulation
+  - Epidemic Modeling
+  - Humanitarian Supply Chain
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Humanitarian Supply Chain Management (ongoing)
+    institution: ETH Zurich
+    date_start: 2020-10-01
+    date_end: ongoing
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -184,4 +182,4 @@ I am a research associate and PhD candidate at the Humanitarian Operations and S
 
 I hold a B.Sc. in mechanical engineering and business administration and a M.Sc. in mechanical engineering from RWTH Aachen, Germany. During my bachelor studies I spent an exchange semester at the National University of Singapore (NUS). In my bachelor thesis I examined the use of machine learning in the field of remanufacturing. During my master studies I focused on medical engineering. In my master thesis I developed a concept for a robotic system for the sterilization of used operation instruments in hospitals including a detailed risk analysis.
 
-#Laura gained various practical experience. She did an internship at Deutsche Post DHL Group, Bonn, Germany in Corporate Controlling and at Stryker, Freiburg im Breisgau, Germany in Advanced Operations in the field of medical products and robotics. Furthermore she has worked as a research assistant at FEV during her bachelors and Fraunhofer IPT during her masters.
+ Laura gained various practical experience. She did an internship at Deutsche Post DHL Group, Bonn, Germany in Corporate Controlling and at Stryker, Freiburg im Breisgau, Germany in Advanced Operations in the field of medical products and robotics. Furthermore she has worked as a research assistant at FEV during her bachelors and Fraunhofer IPT during her masters.
