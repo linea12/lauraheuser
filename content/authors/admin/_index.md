@@ -53,7 +53,7 @@ education:
   - area: PhD in Humanitarian Supply Chain Management (ongoing)
     institution: ETH Zurich
     date_start: 2020-10-01
-    date_end: ongoing
+    date_end: 
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
